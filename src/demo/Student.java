@@ -27,7 +27,8 @@ class room
 	    	   System.out.println("student mark:"+marks);
 	       }
 	       
-	       room()
+	      
+	    Contructor room()
 	       {
 	    	  sid=34;
 	    	   name=" gh";
@@ -41,7 +42,7 @@ public class Student
 	{
 	   room r1=new room();
 	   room r2=new room();
-	   r1.getdata();
+	 
 	   r1.setdata();
 	   r1.getdata();
 	   r2.setdata2();

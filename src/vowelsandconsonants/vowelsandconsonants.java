@@ -15,12 +15,12 @@ public class vowelsandconsonants
          if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' )
          {
             System.out.print("");
-         }
+         } 
          else if(ch != ' ')
          {
             count++;
          }
              }
-      System.out.println("Number of consonants in the given sentence is "+count);
+      System.out.print("Number of consonants is the:"+count);
    }
 }
