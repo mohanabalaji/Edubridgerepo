@@ -21,6 +21,6 @@ public class vowelsandconsonants
             count++;
          }
              }
-      System.out.print("Number of consonants is the:"+count);
+      System.out.print("Number of consonantss is the:"+count);
    }
 }

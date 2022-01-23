@@ -9,7 +9,7 @@ public class wordsearch
 		int Index = str.indexOf("Hello");
 		if(Index == - 1) 
 		{
-			System.out.println("Hello not found");
+			System.out.println("Hello not found!");
 		} 
 		else 
 		{
