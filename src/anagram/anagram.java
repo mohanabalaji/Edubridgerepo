@@ -11,6 +11,7 @@ public class anagram
 	
 
 				Scanner s=new Scanner(System.in);
+				
 				System.out.print("Enter String 1 : ");
 				String str1=s.nextLine();
 				System.out.print("Enter String 2 : ");
