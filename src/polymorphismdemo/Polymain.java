@@ -9,7 +9,7 @@ public class Polymain {
 	   ob.display(45.5);
 	   ob.display("java running");
 	   ob.show("java");
-	   
+	   System.out.println("java"+ob.i);
 	}
 
 }

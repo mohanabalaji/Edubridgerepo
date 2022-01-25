@@ -13,6 +13,7 @@ public class Poly2 extends Poly1
 	{
 		super.show(s);
 		System.out.println("Running from class poly2: "+super.i);
+		
 	}
 	
 
