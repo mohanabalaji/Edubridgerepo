@@ -8,7 +8,7 @@ public class one {
 	{
 		
 		Scanner scan=new Scanner(System.in);
-		System.out.println("Enter the number of rows");
+		System.out.print("Enter the number of rows: ");
 		int rows=scan.nextInt();
 		int i,j;
 		for(i=1; i<=rows; i++){
