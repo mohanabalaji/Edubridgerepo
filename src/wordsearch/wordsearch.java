@@ -13,7 +13,7 @@ public class wordsearch
 		} 
 		else 
 		{
-			System.out.println("Found hello of index "+ Index);
+			System.out.println("Found hello of index! "+ Index);
 		}
 	}
 
