@@ -1,6 +1,8 @@
 /abcd/
 /abstraction_demo/
 /anagram/
+/bankdetails/
+/exceptionhandling/
 /find/
 /inheritance/
 /palindrome/
@@ -9,6 +11,3 @@
 /triangle/
 /vowelsandconsonants/
 /wordsearch/
-/bankaccount/
-/bankdetails/
-/exceptionhandling/
