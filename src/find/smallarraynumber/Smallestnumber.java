@@ -7,7 +7,7 @@ public class Smallestnumber
 
 	public static void main(String[] args) 
 	{
-		int[] arr=new int[10];
+		int[] arr=new int[4];
 		
 		int min=arr[0];
 		System.out.print("Enter array values: ");
