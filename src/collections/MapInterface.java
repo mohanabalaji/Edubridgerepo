@@ -15,13 +15,13 @@ public class MapInterface
 		map.put(1, "Balaji");
 		map.put(3,"Aadya" );
 		
+		System.out.println("Implementation of entry class: ");
 		System.out.println(map.get(2));
-		System.out.println("IMplementation of entry class: ");
 		
-		for(Map.Entry<Integer, String> entry : map.entrySet())
-		{
-			System.out.println(entry.getKey()+" :: "+entry.getValue());
-		}
+//		for(Map.Entry<Integer, String> entry : map.entrySet())
+//		{
+//			System.out.println(entry.getKey()+" :: "+entry.getValue());
+//		}
 
 		
 	}

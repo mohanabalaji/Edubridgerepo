@@ -9,6 +9,8 @@ public class clasmain extends clas
 	{
 		clas ob=new clas();
 		ob.show(); // public can access from any package
+	
+	
 	}
 
 }

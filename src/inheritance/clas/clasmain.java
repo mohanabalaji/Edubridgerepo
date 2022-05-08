@@ -1,6 +1,6 @@
 package inheritance.clas;
 
-public class clasmain 
+public class clasmain extends clas
 {
 
 	public static void main(String[] args)

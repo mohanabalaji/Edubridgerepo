@@ -14,9 +14,9 @@ public class clas
 		}
 	 
 	 void show2()
-		{
+	{
 		 System.out.println("default data");
-		}
+		 }
 	 
 	 protected void show3()
 		{

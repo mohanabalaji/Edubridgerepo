@@ -1,6 +1,6 @@
-package find.triangle;
+package Dbms;
 
-public class Triangle {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
